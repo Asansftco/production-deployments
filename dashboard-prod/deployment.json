@@ -1,0 +1,8 @@
+{
+  "image": "ghcr.io/asansftco/frontend_dashboard:0000000000aa",
+  "tag": "0000000000aa",
+  "previous_tag": "",
+  "commit": "0000000000aa",
+  "migration": "none",
+  "created": "2026-09-11T00:00:00Z"
+}

@@ -34,8 +34,10 @@ complete deployment history.
 landing/deployment.json          asanfsp.ir
 backend-prod/deployment.json     api.asanfsp.ir
 backend-dev/deployment.json      api-dev.asanfsp.ir
-dashboard-prod/deployment.json   dashboard.asanfsp.ir      not published yet
-dashboard-dev/deployment.json    dashboard-dev.asanfsp.ir  not published yet
+app-prod/deployment.json         app.asanfsp.ir      (FrontEnd_App, image frontend_app)
+app-dev/deployment.json          app-dev.asanfsp.ir  not published yet
+dashboard-prod/deployment.json   OLD name of app-prod - delete once the VPS reads app-prod
+dashboard-dev/deployment.json    OLD name of app-dev  - delete once the VPS reads app-prod
 ```
 
 ## Fields

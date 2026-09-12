@@ -36,6 +36,7 @@ backend-prod/deployment.json     api.asanfsp.ir
 backend-dev/deployment.json      api-dev.asanfsp.ir
 app-prod/deployment.json         app.asanfsp.ir      (FrontEnd_App, image frontend_app)
 app-dev/deployment.json          app-dev.asanfsp.ir  not published yet
+demo-prod/deployment.json        app-demo.asanfsp.ir (FrontEnd_Demo, image frontend_demo, main only)
 ```
 
 ## Fields

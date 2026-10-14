@@ -1,8 +1,8 @@
 {
-  "image": "ghcr.io/asansftco/frontend_landing:a7351c5530c7",
-  "tag": "a7351c5530c7",
-  "previous_tag": "b1339a3299d6",
-  "commit": "a7351c5530c7b32ff52f245fab18a2270c8a6f3b",
+  "image": "ghcr.io/asansftco/frontend_landing:9699e35db548",
+  "tag": "9699e35db548",
+  "previous_tag": "a7351c5530c7",
+  "commit": "9699e35db5486bf9c01b99fe3fba049ee25a485e",
   "migration": "none",
-  "created": "2026-10-13T07:56:15Z"
+  "created": "2026-10-14T14:26:48Z"
 }
